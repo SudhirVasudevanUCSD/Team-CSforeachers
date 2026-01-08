@@ -3,6 +3,7 @@ TJ Alo\
 Joshua Singer\
 Alvin Hsu\
 Yusuf Morsi\
+Sudhir Vasudevan\
 Hannah Samuel
 
 ## Overview
